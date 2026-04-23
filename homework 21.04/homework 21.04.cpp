@@ -17,7 +17,6 @@ int main()
         cout << "0. Exit\n";
         cin >> menu;
 
-
         switch (menu) {
         case 0:
             cout << "Exiting...\n";
